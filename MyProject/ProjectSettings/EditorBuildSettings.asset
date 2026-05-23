@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TestArea.unity
     guid: 6f282357633e80f4f975e584fa9effbc
+  - enabled: 1
+    path: Assets/Scenes/BowlingAlley.unity
+    guid: ba032207aadb64e46b66ac75281be89d
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
